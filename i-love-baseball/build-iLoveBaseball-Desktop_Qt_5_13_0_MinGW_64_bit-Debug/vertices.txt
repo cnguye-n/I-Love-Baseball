@@ -1,0 +1,60 @@
+Angels Stadium of Anaheim
+1
+Comerica Park
+1
+Fenway Park
+1
+Globe Life Park in Arlington
+1
+Kauffman Stadium
+1
+Minute Maid Park
+1
+O.co Coliseum
+1
+Oriole Park at Camden Yards
+1
+Progressive Field
+1
+Rogers Centre
+1
+SafeCo Field
+1
+Target Field
+1
+Tropicana Field
+1
+US Cellular Field
+1
+Yankee Stadium
+1
+At&T Park
+0
+Busch Stadium
+0
+Chase Field
+0
+Citi Field
+0
+Citizens Bank Park
+0
+Coors Field
+0
+Dodger Stadium
+0
+Great America Ball Park
+0
+Marlins Park
+0
+Miller Park
+0
+Nationals Park
+0
+Petco Park
+0
+PNC Park
+0
+Turner Field
+0
+Wrigley Field
+0

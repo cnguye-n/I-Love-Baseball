@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>testQML.qml</file>
+        <file>marker.qml</file>
+        <file>line.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>map-marker-icon.png</file>
+    </qresource>
+</RCC>

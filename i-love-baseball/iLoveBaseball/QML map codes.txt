@@ -1,0 +1,100 @@
+******************************************************************
+     * MUST USE THESE CODES WHEN ADDING EDGES TO MAP
+     * THERE ARE A TOTAL OF 47 POSSIBLE EDGES
+     * -----------------------------------------------
+     * safeco_ATT
+     *      SafeCo Field to AT&T Park / O.co Coliseum
+     * safeco_rogers
+     *      SafeCo Field to Rogers Center
+     * safeco_target
+     *      SafeCo Field to Target Field
+     * ATT_angel
+     *      AT&T Park / O.co Coliseum to Angel Stadium / Dodger Stadium
+     * ATT_chase
+     *      AT&T Park / O.co Coliseum to Chase Field
+     * angel_petco
+     *      Angel Stadium / Dodger Stadium to PETCO Park
+     * angel_target
+     *      Angel Stadium / Dodger Stadium to Target Field
+     * petco_chase
+     *      PETCO Park to Chase Field
+     * petco_coors
+     *      PETCO Park to Coors Field
+     * chase_coors
+     *      Chase Field to Coors Field
+     * chase_globe
+     *      Chase Field to Globe Park AKA Rangers Ballpark
+     * chase_maid
+     *      Chase Field to Minute Maid Park
+     * coors_globe
+     *      Coors Field to Globe Park AKA Rangers Ballpark
+     * coors_kauffman
+     *      Coors Field to Kauffman Stadium
+     * target_miller
+     *      Target Field to Miller Park
+     * target_busch
+     *      Target Field to Busch Stadium
+     * kauffman_globe
+     *      Kauffman Stadium to Globe Park AKA Rangers Ballpark
+     * kauffman_wrigley
+     *      Kauffman Stadium to Wrigley Field / US Cellular Field
+     * globe_turner
+     *      Globe Park AKA Rangers Ballpark to Turner Field
+     * globe_maid
+     *      Globe Park AKA Rangers Ballpark to Minute Maid Park
+     * miller_rogers
+     *      Miller Park to Rogers Center
+     * miller_wrigley
+     *      Miller Park to Wrigley Field / US Cellular Field
+     * wrigley_comerica
+     *      Wrigley Field / US Cellular Field to Comerica Park
+     * wrigley_great
+     *      Wrigley Field / US Cellular Field to Great American Ballpark
+     * busch_great
+     *      Busch Stadium to Great American Ballpark
+     * busch_maid
+     *      Busch Stadium to Minute Maid Park
+     * rogers_fenway
+     *      Rogers Center to Fenway Park
+     * rogers_pnc
+     *      Rogers Center to PNC Park
+     * rogers_comerica
+     *      Rogers Center to Comerica Park
+     * comerica_progress
+     *      Comerica Park to Progressive Field
+     * progress_pnc
+     *      Progressive Field to PNC Park
+     * progress_great
+     *      Progressive Field to Great American Ballpark
+     * great_turner
+     *      Great American Ballpark to Turner Field
+     * great_tropicana
+     *      Great American Ballpark to Tropicana Field
+     * great_pnc
+     *      Great American Ballpark to PNC Park
+     * pnc_citi
+     *      PNC Park to Citi Field / Yankee Stadium
+     * pnc_camden
+     *      PNC Park to Camden Yards / Nationals Park
+     * turner_camden
+     *      Turner Field to Camden Yards / Nationals Park
+     * turner_marlins
+     *      Turner Field to Marlins Park
+     * fenway_citi
+     *      Fenway Park to Citi Field / Yankee Stadium
+     * fenway_marlins
+     *      Fenway Park to Marlins Park
+     * citi_citizens
+     *      Citi Field / Yankee Stadium to Citizens Bank Park
+     * citizens_camden
+     *      Citizens Bank Park to Camden Yards / Nationals Park
+     * camden_marlins
+     *      Camden Yards / Nationals Park to Marlins Park
+     * tropicana_marlins
+     *      Tropicana Field to Marlins Park
+     * maid_tropicana
+     *      Minute Maid Park to Tropicana Field
+     * maid_marlins
+     *      Minute Maid Park to Marlins Park
+     *
+     * ***************************************************************/

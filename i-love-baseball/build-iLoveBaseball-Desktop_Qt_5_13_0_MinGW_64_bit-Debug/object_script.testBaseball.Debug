@@ -1,0 +1,11 @@
+debug/ReadInPrograms.o
+debug/add_all_prices.o
+debug/date.o
+debug/date2.o
+debug/graph.o
+debug/main.o
+debug/mainwindow.o
+debug/souvenir.o
+debug/stadium.o
+debug/qrc_resource.o
+debug/moc_mainwindow.o
